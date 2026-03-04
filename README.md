@@ -1,4 +1,4 @@
-# Hi, I'm [Hosam Hamid] 👋
+# Hi, I'm Hosam Hamid 👋
 
 🎓 Data Management & Database Specialist  
 📊 Data Analyst | SQL | Python | Machine Learning  
@@ -61,4 +61,4 @@ I am passionate about solving real-world problems using structured data and anal
 
 ---
 
-📫 Connect with me on LinkedIn: [www.linkedin.com/in/hosam-hamid-09858855885734313a]
+📫 Connect with me on LinkedIn: www.linkedin.com/in/hosam-hamid-09858855885734313a
